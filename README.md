@@ -4,7 +4,7 @@ He pasado casi dos décadas garantizando que los sistemas físicos funcionen sin
 
 Mi valor diferencial no es solo el dominio de las herramientas técnicas; es la madurez profesional para entender que la seguridad es una suma de tecnología, estrategia, procesos y personas.
 
-"(./CV_Fran_Cibersecuridad.pdf)" | "https://www.linkedin.com/feed/"
+"(.documentos/CV_Fran_Cibersecuridad.pdf)" | "https://www.linkedin.com/feed/"
 
 ## 🛠️ Habilidades Clave
 Gestión y Estrategia (Seniority)
